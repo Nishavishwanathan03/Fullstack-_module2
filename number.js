@@ -1,0 +1,11 @@
+console.log("numbers in javascript!--");
+var age = 24;
+var salary = 200000;
+var bodyweight = 50;
+var contact = 8888288288;
+var randomnumber= 267779089056677;
+console.log(age);
+console.log(salary);
+console.log(bodyweight);
+console.log(contact);
+console.log(randomnumber);
